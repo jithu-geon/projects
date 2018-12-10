@@ -18,6 +18,9 @@
     "paths": {
       "@app/container": [
         "libs/container/src/index.ts"
+      ],
+      "@app/material": [
+        "libs/material/src/index.ts"
       ]
     }
   },

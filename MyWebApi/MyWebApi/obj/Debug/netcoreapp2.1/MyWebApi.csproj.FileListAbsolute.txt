@@ -1,0 +1,15 @@
+E:\MyOwnProject\MyWebApi\MyWebApi\bin\Debug\netcoreapp2.1\MyWebApi.deps.json
+E:\MyOwnProject\MyWebApi\MyWebApi\bin\Debug\netcoreapp2.1\MyWebApi.runtimeconfig.json
+E:\MyOwnProject\MyWebApi\MyWebApi\bin\Debug\netcoreapp2.1\MyWebApi.runtimeconfig.dev.json
+E:\MyOwnProject\MyWebApi\MyWebApi\bin\Debug\netcoreapp2.1\MyWebApi.dll
+E:\MyOwnProject\MyWebApi\MyWebApi\bin\Debug\netcoreapp2.1\MyWebApi.pdb
+E:\MyOwnProject\MyWebApi\MyWebApi\obj\Debug\netcoreapp2.1\MyWebApi.csproj.CoreCompileInputs.cache
+E:\MyOwnProject\MyWebApi\MyWebApi\obj\Debug\netcoreapp2.1\MyWebApi.RazorAssemblyInfo.cache
+E:\MyOwnProject\MyWebApi\MyWebApi\obj\Debug\netcoreapp2.1\MyWebApi.RazorAssemblyInfo.cs
+E:\MyOwnProject\MyWebApi\MyWebApi\obj\Debug\netcoreapp2.1\MyWebApi.AssemblyInfoInputs.cache
+E:\MyOwnProject\MyWebApi\MyWebApi\obj\Debug\netcoreapp2.1\MyWebApi.AssemblyInfo.cs
+E:\MyOwnProject\MyWebApi\MyWebApi\obj\Debug\netcoreapp2.1\MyWebApi.RazorTargetAssemblyInfo.cache
+E:\MyOwnProject\MyWebApi\MyWebApi\obj\Debug\netcoreapp2.1\MyWebApi.dll
+E:\MyOwnProject\MyWebApi\MyWebApi\obj\Debug\netcoreapp2.1\MyWebApi.pdb
+E:\MyOwnProject\MyWebApi\MyWebApi\obj\Debug\netcoreapp2.1\MyWebApi.csprojAssemblyReference.cache
+E:\MyOwnProject\MyWebApi\MyWebApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

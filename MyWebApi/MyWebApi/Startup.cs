@@ -39,7 +39,8 @@ namespace MyWebApi
             {
                 app.UseHsts();
             }
-
+            app.UseStaticFiles();
+            app.UseDefaultFiles();
             app.UseHttpsRedirection();
             app.UseMvc();
         }

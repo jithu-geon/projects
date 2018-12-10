@@ -2,7 +2,7 @@
 
 /***/ "../../node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js":
 /*!*********************************************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js ***!
   \*********************************************************************************************************************************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -25,7 +25,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ "../../node_modules/core-js/es7/reflect.js":
 /*!****************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/es7/reflect.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/es7/reflect.js ***!
   \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -46,7 +46,7 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 
 /***/ "../../node_modules/core-js/modules/_a-function.js":
 /*!************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_a-function.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_a-function.js ***!
   \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -61,7 +61,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_an-instance.js":
 /*!*************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_an-instance.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_an-instance.js ***!
   \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -77,7 +77,7 @@ module.exports = function (it, Constructor, name, forbiddenField) {
 
 /***/ "../../node_modules/core-js/modules/_an-object.js":
 /*!***********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_an-object.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_an-object.js ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -93,7 +93,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_array-from-iterable.js":
 /*!*********************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_array-from-iterable.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_array-from-iterable.js ***!
   \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -111,7 +111,7 @@ module.exports = function (iter, ITERATOR) {
 
 /***/ "../../node_modules/core-js/modules/_array-includes.js":
 /*!****************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_array-includes.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_array-includes.js ***!
   \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -145,7 +145,7 @@ module.exports = function (IS_INCLUDES) {
 
 /***/ "../../node_modules/core-js/modules/_array-methods.js":
 /*!***************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_array-methods.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_array-methods.js ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -200,7 +200,7 @@ module.exports = function (TYPE, $create) {
 
 /***/ "../../node_modules/core-js/modules/_array-species-constructor.js":
 /*!***************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_array-species-constructor.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_array-species-constructor.js ***!
   \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -227,7 +227,7 @@ module.exports = function (original) {
 
 /***/ "../../node_modules/core-js/modules/_array-species-create.js":
 /*!**********************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_array-species-create.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_array-species-create.js ***!
   \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -244,7 +244,7 @@ module.exports = function (original, length) {
 
 /***/ "../../node_modules/core-js/modules/_classof.js":
 /*!*********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_classof.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_classof.js ***!
   \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -278,7 +278,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_cof.js":
 /*!*****************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_cof.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_cof.js ***!
   \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -294,7 +294,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_collection-strong.js":
 /*!*******************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_collection-strong.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_collection-strong.js ***!
   \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -450,7 +450,7 @@ module.exports = {
 
 /***/ "../../node_modules/core-js/modules/_collection-weak.js":
 /*!*****************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_collection-weak.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_collection-weak.js ***!
   \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -547,7 +547,7 @@ module.exports = {
 
 /***/ "../../node_modules/core-js/modules/_collection.js":
 /*!************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_collection.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_collection.js ***!
   \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -644,7 +644,7 @@ module.exports = function (NAME, wrapper, methods, common, IS_MAP, IS_WEAK) {
 
 /***/ "../../node_modules/core-js/modules/_core.js":
 /*!******************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_core.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_core.js ***!
   \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -657,7 +657,7 @@ if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 
 /***/ "../../node_modules/core-js/modules/_ctx.js":
 /*!*****************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_ctx.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_ctx.js ***!
   \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -688,7 +688,7 @@ module.exports = function (fn, that, length) {
 
 /***/ "../../node_modules/core-js/modules/_defined.js":
 /*!*********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_defined.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_defined.js ***!
   \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -704,7 +704,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_descriptors.js":
 /*!*************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_descriptors.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_descriptors.js ***!
   \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -719,7 +719,7 @@ module.exports = !__webpack_require__(/*! ./_fails */ "../../node_modules/core-j
 
 /***/ "../../node_modules/core-js/modules/_dom-create.js":
 /*!************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_dom-create.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_dom-create.js ***!
   \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -737,7 +737,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_enum-bug-keys.js":
 /*!***************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_enum-bug-keys.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_enum-bug-keys.js ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -752,7 +752,7 @@ module.exports = (
 
 /***/ "../../node_modules/core-js/modules/_export.js":
 /*!********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_export.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_export.js ***!
   \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -806,7 +806,7 @@ module.exports = $export;
 
 /***/ "../../node_modules/core-js/modules/_fails.js":
 /*!*******************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_fails.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_fails.js ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -824,7 +824,7 @@ module.exports = function (exec) {
 
 /***/ "../../node_modules/core-js/modules/_for-of.js":
 /*!********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_for-of.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_for-of.js ***!
   \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -860,7 +860,7 @@ exports.RETURN = RETURN;
 
 /***/ "../../node_modules/core-js/modules/_global.js":
 /*!********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_global.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_global.js ***!
   \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -877,7 +877,7 @@ if (typeof __g == 'number') __g = global; // eslint-disable-line no-undef
 
 /***/ "../../node_modules/core-js/modules/_has.js":
 /*!*****************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_has.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_has.js ***!
   \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -892,7 +892,7 @@ module.exports = function (it, key) {
 
 /***/ "../../node_modules/core-js/modules/_hide.js":
 /*!******************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_hide.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_hide.js ***!
   \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -911,7 +911,7 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 
 /***/ "../../node_modules/core-js/modules/_html.js":
 /*!******************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_html.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_html.js ***!
   \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -924,7 +924,7 @@ module.exports = document && document.documentElement;
 
 /***/ "../../node_modules/core-js/modules/_ie8-dom-define.js":
 /*!****************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_ie8-dom-define.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_ie8-dom-define.js ***!
   \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -938,7 +938,7 @@ module.exports = !__webpack_require__(/*! ./_descriptors */ "../../node_modules/
 
 /***/ "../../node_modules/core-js/modules/_inherit-if-required.js":
 /*!*********************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_inherit-if-required.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_inherit-if-required.js ***!
   \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -958,7 +958,7 @@ module.exports = function (that, target, C) {
 
 /***/ "../../node_modules/core-js/modules/_iobject.js":
 /*!*********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_iobject.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_iobject.js ***!
   \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -975,7 +975,7 @@ module.exports = Object('z').propertyIsEnumerable(0) ? Object : function (it) {
 
 /***/ "../../node_modules/core-js/modules/_is-array-iter.js":
 /*!***************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_is-array-iter.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_is-array-iter.js ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -994,7 +994,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_is-array.js":
 /*!**********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_is-array.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_is-array.js ***!
   \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1010,7 +1010,7 @@ module.exports = Array.isArray || function isArray(arg) {
 
 /***/ "../../node_modules/core-js/modules/_is-object.js":
 /*!***********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_is-object.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_is-object.js ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -1024,7 +1024,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_iter-call.js":
 /*!***********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_iter-call.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_iter-call.js ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1047,7 +1047,7 @@ module.exports = function (iterator, fn, value, entries) {
 
 /***/ "../../node_modules/core-js/modules/_iter-create.js":
 /*!*************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_iter-create.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_iter-create.js ***!
   \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1072,7 +1072,7 @@ module.exports = function (Constructor, NAME, next) {
 
 /***/ "../../node_modules/core-js/modules/_iter-define.js":
 /*!*************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_iter-define.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_iter-define.js ***!
   \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1153,7 +1153,7 @@ module.exports = function (Base, NAME, Constructor, next, DEFAULT, IS_SET, FORCE
 
 /***/ "../../node_modules/core-js/modules/_iter-detect.js":
 /*!*************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_iter-detect.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_iter-detect.js ***!
   \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1186,7 +1186,7 @@ module.exports = function (exec, skipClosing) {
 
 /***/ "../../node_modules/core-js/modules/_iter-step.js":
 /*!***********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_iter-step.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_iter-step.js ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -1200,7 +1200,7 @@ module.exports = function (done, value) {
 
 /***/ "../../node_modules/core-js/modules/_iterators.js":
 /*!***********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_iterators.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_iterators.js ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -1212,7 +1212,7 @@ module.exports = {};
 
 /***/ "../../node_modules/core-js/modules/_library.js":
 /*!*********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_library.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_library.js ***!
   \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -1224,7 +1224,7 @@ module.exports = false;
 
 /***/ "../../node_modules/core-js/modules/_meta.js":
 /*!******************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_meta.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_meta.js ***!
   \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1288,7 +1288,7 @@ var meta = module.exports = {
 
 /***/ "../../node_modules/core-js/modules/_metadata.js":
 /*!**********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_metadata.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_metadata.js ***!
   \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1350,7 +1350,7 @@ module.exports = {
 
 /***/ "../../node_modules/core-js/modules/_object-assign.js":
 /*!***************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_object-assign.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_object-assign.js ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1396,7 +1396,7 @@ module.exports = !$assign || __webpack_require__(/*! ./_fails */ "../../node_mod
 
 /***/ "../../node_modules/core-js/modules/_object-create.js":
 /*!***************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_object-create.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_object-create.js ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1448,7 +1448,7 @@ module.exports = Object.create || function create(O, Properties) {
 
 /***/ "../../node_modules/core-js/modules/_object-dp.js":
 /*!***********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_object-dp.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_object-dp.js ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1475,7 +1475,7 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "../../node_modules/core-j
 
 /***/ "../../node_modules/core-js/modules/_object-dps.js":
 /*!************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_object-dps.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_object-dps.js ***!
   \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1499,7 +1499,7 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 
 /***/ "../../node_modules/core-js/modules/_object-gopd.js":
 /*!*************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_object-gopd.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_object-gopd.js ***!
   \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1526,7 +1526,7 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "../../node_modules/core-j
 
 /***/ "../../node_modules/core-js/modules/_object-gops.js":
 /*!*************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_object-gops.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_object-gops.js ***!
   \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -1538,7 +1538,7 @@ exports.f = Object.getOwnPropertySymbols;
 
 /***/ "../../node_modules/core-js/modules/_object-gpo.js":
 /*!************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_object-gpo.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_object-gpo.js ***!
   \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1562,7 +1562,7 @@ module.exports = Object.getPrototypeOf || function (O) {
 
 /***/ "../../node_modules/core-js/modules/_object-keys-internal.js":
 /*!**********************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_object-keys-internal.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_object-keys-internal.js ***!
   \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1590,7 +1590,7 @@ module.exports = function (object, names) {
 
 /***/ "../../node_modules/core-js/modules/_object-keys.js":
 /*!*************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_object-keys.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_object-keys.js ***!
   \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1608,7 +1608,7 @@ module.exports = Object.keys || function keys(O) {
 
 /***/ "../../node_modules/core-js/modules/_object-pie.js":
 /*!************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_object-pie.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_object-pie.js ***!
   \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -1620,7 +1620,7 @@ exports.f = {}.propertyIsEnumerable;
 
 /***/ "../../node_modules/core-js/modules/_property-desc.js":
 /*!***************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_property-desc.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_property-desc.js ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -1639,7 +1639,7 @@ module.exports = function (bitmap, value) {
 
 /***/ "../../node_modules/core-js/modules/_redefine-all.js":
 /*!**************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_redefine-all.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_redefine-all.js ***!
   \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1655,7 +1655,7 @@ module.exports = function (target, src, safe) {
 
 /***/ "../../node_modules/core-js/modules/_redefine.js":
 /*!**********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_redefine.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_redefine.js ***!
   \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1697,7 +1697,7 @@ __webpack_require__(/*! ./_core */ "../../node_modules/core-js/modules/_core.js"
 
 /***/ "../../node_modules/core-js/modules/_set-proto.js":
 /*!***********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_set-proto.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_set-proto.js ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1733,7 +1733,7 @@ module.exports = {
 
 /***/ "../../node_modules/core-js/modules/_set-species.js":
 /*!*************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_set-species.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_set-species.js ***!
   \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1758,7 +1758,7 @@ module.exports = function (KEY) {
 
 /***/ "../../node_modules/core-js/modules/_set-to-string-tag.js":
 /*!*******************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_set-to-string-tag.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_set-to-string-tag.js ***!
   \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1776,7 +1776,7 @@ module.exports = function (it, tag, stat) {
 
 /***/ "../../node_modules/core-js/modules/_shared-key.js":
 /*!************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_shared-key.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_shared-key.js ***!
   \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1792,7 +1792,7 @@ module.exports = function (key) {
 
 /***/ "../../node_modules/core-js/modules/_shared.js":
 /*!********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_shared.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_shared.js ***!
   \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1815,7 +1815,7 @@ var store = global[SHARED] || (global[SHARED] = {});
 
 /***/ "../../node_modules/core-js/modules/_to-absolute-index.js":
 /*!*******************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_to-absolute-index.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_to-absolute-index.js ***!
   \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1833,7 +1833,7 @@ module.exports = function (index, length) {
 
 /***/ "../../node_modules/core-js/modules/_to-integer.js":
 /*!************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_to-integer.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_to-integer.js ***!
   \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -1850,7 +1850,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_to-iobject.js":
 /*!************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_to-iobject.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_to-iobject.js ***!
   \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1867,7 +1867,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_to-length.js":
 /*!***********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_to-length.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_to-length.js ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1884,7 +1884,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_to-object.js":
 /*!***********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_to-object.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_to-object.js ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1900,7 +1900,7 @@ module.exports = function (it) {
 
 /***/ "../../node_modules/core-js/modules/_to-primitive.js":
 /*!**************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_to-primitive.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_to-primitive.js ***!
   \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1923,7 +1923,7 @@ module.exports = function (it, S) {
 
 /***/ "../../node_modules/core-js/modules/_uid.js":
 /*!*****************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_uid.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_uid.js ***!
   \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -1939,7 +1939,7 @@ module.exports = function (key) {
 
 /***/ "../../node_modules/core-js/modules/_validate-collection.js":
 /*!*********************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_validate-collection.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_validate-collection.js ***!
   \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1955,7 +1955,7 @@ module.exports = function (it, TYPE) {
 
 /***/ "../../node_modules/core-js/modules/_wks.js":
 /*!*****************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/_wks.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/_wks.js ***!
   \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1977,7 +1977,7 @@ $exports.store = store;
 
 /***/ "../../node_modules/core-js/modules/core.get-iterator-method.js":
 /*!*************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/core.get-iterator-method.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/core.get-iterator-method.js ***!
   \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1996,7 +1996,7 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 
 /***/ "../../node_modules/core-js/modules/es6.map.js":
 /*!********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es6.map.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es6.map.js ***!
   \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2027,7 +2027,7 @@ module.exports = __webpack_require__(/*! ./_collection */ "../../node_modules/co
 
 /***/ "../../node_modules/core-js/modules/es6.set.js":
 /*!********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es6.set.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es6.set.js ***!
   \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2053,7 +2053,7 @@ module.exports = __webpack_require__(/*! ./_collection */ "../../node_modules/co
 
 /***/ "../../node_modules/core-js/modules/es6.weak-map.js":
 /*!*************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es6.weak-map.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es6.weak-map.js ***!
   \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2124,7 +2124,7 @@ if (fails(function () { return new $WeakMap().set((Object.freeze || Object)(tmp)
 
 /***/ "../../node_modules/core-js/modules/es7.reflect.define-metadata.js":
 /*!****************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es7.reflect.define-metadata.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es7.reflect.define-metadata.js ***!
   \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2143,7 +2143,7 @@ metadata.exp({ defineMetadata: function defineMetadata(metadataKey, metadataValu
 
 /***/ "../../node_modules/core-js/modules/es7.reflect.delete-metadata.js":
 /*!****************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es7.reflect.delete-metadata.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es7.reflect.delete-metadata.js ***!
   \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2169,7 +2169,7 @@ metadata.exp({ deleteMetadata: function deleteMetadata(metadataKey, target /* , 
 
 /***/ "../../node_modules/core-js/modules/es7.reflect.get-metadata-keys.js":
 /*!******************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es7.reflect.get-metadata-keys.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es7.reflect.get-metadata-keys.js ***!
   \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2199,7 +2199,7 @@ metadata.exp({ getMetadataKeys: function getMetadataKeys(target /* , targetKey *
 
 /***/ "../../node_modules/core-js/modules/es7.reflect.get-metadata.js":
 /*!*************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es7.reflect.get-metadata.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es7.reflect.get-metadata.js ***!
   \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2227,7 +2227,7 @@ metadata.exp({ getMetadata: function getMetadata(metadataKey, target /* , target
 
 /***/ "../../node_modules/core-js/modules/es7.reflect.get-own-metadata-keys.js":
 /*!**********************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es7.reflect.get-own-metadata-keys.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es7.reflect.get-own-metadata-keys.js ***!
   \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2246,7 +2246,7 @@ metadata.exp({ getOwnMetadataKeys: function getOwnMetadataKeys(target /* , targe
 
 /***/ "../../node_modules/core-js/modules/es7.reflect.get-own-metadata.js":
 /*!*****************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es7.reflect.get-own-metadata.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es7.reflect.get-own-metadata.js ***!
   \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2266,7 +2266,7 @@ metadata.exp({ getOwnMetadata: function getOwnMetadata(metadataKey, target /* , 
 
 /***/ "../../node_modules/core-js/modules/es7.reflect.has-metadata.js":
 /*!*************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es7.reflect.has-metadata.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es7.reflect.has-metadata.js ***!
   \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2293,7 +2293,7 @@ metadata.exp({ hasMetadata: function hasMetadata(metadataKey, target /* , target
 
 /***/ "../../node_modules/core-js/modules/es7.reflect.has-own-metadata.js":
 /*!*****************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es7.reflect.has-own-metadata.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es7.reflect.has-own-metadata.js ***!
   \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2313,7 +2313,7 @@ metadata.exp({ hasOwnMetadata: function hasOwnMetadata(metadataKey, target /* , 
 
 /***/ "../../node_modules/core-js/modules/es7.reflect.metadata.js":
 /*!*********************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/core-js/modules/es7.reflect.metadata.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/core-js/modules/es7.reflect.metadata.js ***!
   \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2339,7 +2339,7 @@ $metadata.exp({ metadata: function metadata(metadataKey, metadataValue) {
 
 /***/ "../../node_modules/zone.js/dist/zone.js":
 /*!**************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/zone.js/dist/zone.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/zone.js/dist/zone.js ***!
   \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -5491,13 +5491,13 @@ __webpack_require__(/*! zone.js/dist/zone */ "../../node_modules/zone.js/dist/zo
 
 /***/ 1:
 /*!**********************************************************************************************************************************************************************!*\
-  !*** multi ./src/polyfills.ts E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js ***!
+  !*** multi ./src/polyfills.ts E:/myownproject/mywebapi/ui/myangularproject/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js ***!
   \**********************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\MyOwnProject\MyWebApi\UI\MyAngularProject\apps\my-app\src\polyfills.ts */"./src/polyfills.ts");
-module.exports = __webpack_require__(/*! E:\MyOwnProject\MyWebApi\UI\MyAngularProject\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\jit-polyfills.js */"../../node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js");
+__webpack_require__(/*! E:\myownproject\mywebapi\ui\myangularproject\apps\my-app\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! E:\myownproject\mywebapi\ui\myangularproject\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\jit-polyfills.js */"../../node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js");
 
 
 /***/ })

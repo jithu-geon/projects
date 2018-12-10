@@ -2,7 +2,7 @@
 
 /***/ "../../node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!../../node_modules/postcss-loader/src/index.js?!./src/styles.css":
 /*!*******************************************************************************************************************************************************************************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/postcss-loader/src??embedded!./src/styles.css ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!E:/myownproject/mywebapi/ui/myangularproject/node_modules/postcss-loader/src??embedded!./src/styles.css ***!
   \*******************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -13,7 +13,7 @@ module.exports = [[module.i, "/* You can add global styles to this file, and als
 
 /***/ "../../node_modules/style-loader/lib/addStyles.js":
 /*!***********************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/style-loader/lib/addStyles.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/style-loader/lib/addStyles.js ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -420,7 +420,7 @@ function updateLink (link, options, obj) {
 
 /***/ "../../node_modules/style-loader/lib/urls.js":
 /*!******************************************************************************************!*\
-  !*** E:/MyOwnProject/MyWebApi/UI/MyAngularProject/node_modules/style-loader/lib/urls.js ***!
+  !*** E:/myownproject/mywebapi/ui/myangularproject/node_modules/style-loader/lib/urls.js ***!
   \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -555,7 +555,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! E:\MyOwnProject\MyWebApi\UI\MyAngularProject\apps\my-app\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! E:\myownproject\mywebapi\ui\myangularproject\apps\my-app\src\styles.css */"./src/styles.css");
 
 
 /***/ })

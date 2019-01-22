@@ -39,9 +39,11 @@ namespace MyWebApi
             {
                 app.UseHsts();
             }
-            app.UseStaticFiles();
+            //var options = new DefaultFilesOptions();
+            //options.DefaultFileNames.Add("index.html");
+            //app.UseDefaultFiles(options);
             app.UseDefaultFiles();
-            app.UseHttpsRedirection();
+            app.UseStaticFiles();
             app.UseMvc();
         }
     }

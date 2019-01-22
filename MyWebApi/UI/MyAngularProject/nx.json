@@ -14,9 +14,6 @@
     "my-app-e2e": {
       "tags": []
     },
-    "container": {
-      "tags": []
-    },
     "material": {
       "tags": []
     }

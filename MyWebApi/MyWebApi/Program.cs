@@ -15,6 +15,16 @@ namespace MyWebApi
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+            var host = new WebHostBuilder()
+           .UseKestrel()
+           .UseContentRoot(Directory.GetCurrentDirectory())
+           .UseUrls("http://localhost:52023")
+           .UseIISIntegration()
+           .UseStartup<Startup>()
+           //.UseApplicationInsights()
+           .Build();
+
+            host.Run();
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>

@@ -14,7 +14,7 @@ namespace MyWebApi.Controllers
             //var data = new NetworkTrafficApiQueryString(analyzerFilterData);
             //var analyzerRecords = new FetchDataFromExternalApi(_glassClient, _iConfiguration);
             //var response = analyzerRecords.Call(data, CurrentUser.CompanyUrn);
-            return Ok(response);
+            return Ok();
         }
     }
 }

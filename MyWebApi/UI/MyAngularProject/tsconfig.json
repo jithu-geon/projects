@@ -18,6 +18,15 @@
     "paths": {
       "@app/material": [
         "libs/material/src/index.ts"
+      ],
+      "@app/container": [
+        "libs/container/src/index.ts"
+      ],
+      "@app/side-nav": [
+        "libs/side-nav/src/index.ts"
+      ],
+      "@app/footer": [
+        "libs/footer/src/index.ts"
       ]
     }
   },

@@ -16,6 +16,15 @@
     },
     "material": {
       "tags": []
+    },
+    "container": {
+      "tags": []
+    },
+    "side-nav": {
+      "tags": []
+    },
+    "footer": {
+      "tags": []
     }
   }
 }

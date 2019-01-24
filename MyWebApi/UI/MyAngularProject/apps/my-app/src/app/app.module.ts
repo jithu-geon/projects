@@ -6,8 +6,8 @@ import { NxModule } from '@nrwl/nx';
 import { RouterModule } from '@angular/router';
 import { MaterialModule } from '@app/material';
 import { ContainerModule } from '@app/container';
-// import { SideNavModule } from '@app/side-nav';
-// import { FooterModule } from '@app/footer';
+import { SideNavModule } from '@app/side-nav';
+import { FooterModule } from '@app/footer';
 
 
 @NgModule({
@@ -17,8 +17,8 @@ import { ContainerModule } from '@app/container';
     NxModule.forRoot(),
     MaterialModule,
     ContainerModule,
-    // SideNavModule,
-    // FooterModule,
+    SideNavModule,
+    FooterModule,
     RouterModule.forRoot([], { initialNavigation: 'enabled' })
   ],
   providers: [],
